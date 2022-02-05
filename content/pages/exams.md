@@ -11,9 +11,69 @@ If you feel that your answer was graded incorrectly, please submit a written exp
 Quizzes with Solutions
 ----------------------
 
-| QUIZ # | TOPICS | QUIZZES |
-| --- | --- | --- |
-| 1 | Lectures 1-5 | ([PDF]({{< baseurl >}}/resources/exam_1)) |
-| 2 | Lectures 6-11 | ([PDF]({{< baseurl >}}/resources/exam_2)) |
-| 3 | Lectures 12-18 | ([PDF]({{< baseurl >}}/resources/exam_3)) |
-| 4 | Lectures 19-23 | ([PDF]({{< baseurl >}}/resources/exam_4))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+QUIZ #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+QUIZZES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 1-5
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exam_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 6-11
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exam_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 12-18
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exam_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lectures 19-23
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exam_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

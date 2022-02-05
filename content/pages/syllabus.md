@@ -55,32 +55,261 @@ Calendar
 
 The calendar below provides information on the course's lecture (L) and exam (E) sessions.
 
-| SES # | TOPICS |
-| --- | --- |
-| L1 | Road map of course, what is and what is not cell biology, properties and behaviors of cells |
-| L2 | Structure of biological membranes, lipids and lipid modification, membrane proteins |
-| L3 | Pumps, channels, transporters |
-| L4 | Receptors, basics of signal transduction (Note: Reprise and extension in lecture 14) |
-| L5 | Protein secretion, biogenesis of membrane proteins |
-| E1 | Exam I (lectures 1-5) |
-| L6 | Regulation of the cell division cycle |
-| L7 | Regulation of DNA replication |
-| L8 | The microtubule cytoskeleton |
-| L9 | Regulation of mitosis |
-| L10 | Meiosis |
-| L11 | Cell cycle checkpoints |
-| E2 | Exam II (lectures 6-11) |
-| L12 | Protein modifications and intracellular transport, glycosylation, vesicular transport, receptor mediated endocytosis, lysosomes, organelle biogenesis |
-| L13 | Protein modifications and intracellular transport II |
-| L14 | Signal transduction: Detailed molecular mechanisms |
-| L15 | Nerve cells, ion channels, synapse, Ca++ regulated events |
-| L16 | Nerve cells II |
-| L17 | Immunity and host pathogen interactions I |
-| L18 | Immunity and host pathogen interactions II |
-| E3 | Exam III (lectures 12-18) |
-| L19 | The actin-myosin cytoskeleton |
-| L20 | The extracellular matrix |
-| L21 | Cancer I |
-| L22 | Cancer II |
-| L23 | Stem cells and cloning |
-| E4 | Exam IV (lectures 19-23)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Road map of course, what is and what is not cell biology, properties and behaviors of cells
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of biological membranes, lipids and lipid modification, membrane proteins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Pumps, channels, transporters
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Receptors, basics of signal transduction (Note: Reprise and extension in lecture 14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Protein secretion, biogenesis of membrane proteins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen >}}
+Exam I (lectures 1-5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation of the cell division cycle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation of DNA replication
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+The microtubule cytoskeleton
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation of mitosis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Meiosis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Cell cycle checkpoints
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen >}}
+Exam II (lectures 6-11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Protein modifications and intracellular transport, glycosylation, vesicular transport, receptor mediated endocytosis, lysosomes, organelle biogenesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Protein modifications and intracellular transport II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Signal transduction: Detailed molecular mechanisms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Nerve cells, ion channels, synapse, Ca++ regulated events
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Nerve cells II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Immunity and host pathogen interactions I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Immunity and host pathogen interactions II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E3
+{{< tdclose >}}
+{{< tdopen >}}
+Exam III (lectures 12-18)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+The actin-myosin cytoskeleton
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+The extracellular matrix
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Stem cells and cloning
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E4
+{{< tdclose >}}
+{{< tdopen >}}
+Exam IV (lectures 19-23)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
